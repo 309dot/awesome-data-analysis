@@ -1433,6 +1433,7 @@ A collection of resources for accessing datasets and data sources for analysis a
 - [LLM Datasets](https://github.com/mlabonne/llm-datasets) - A collection of datasets and resources for training and fine-tuning Large Language Models (LLMs).
 - [Unsplash Datasets](https://github.com/unsplash/datasets) - A collection of datasets from Unsplash, useful for computer vision and research.
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets?tab=readme-ov-file#bitcoin) - A curated list of awesome JSON datasets that are publicly available without authentication.
+- [Every Number Sample Exports](https://github.com/309dot/every-number-sample-exports) - Messy weekly CSV and Excel exports (title rows, totals rows, test accounts, duplicates) for practicing data cleaning and testing dashboards, released under CC0.
 
 [⬆ back to contents](#contents)
 
